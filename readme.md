@@ -9,10 +9,6 @@ A simple and interactive temperature converter application built using Python an
 - **User-Friendly Interface**: Simple design with labeled buttons for easy use.
 - **Input Validation**: Displays an error message for invalid inputs.
 
-## Screenshots
-
-![Temperature Converter Screenshot](screenshot.png)
-
 ## How to Use
 
 1. Enter a temperature in the text box.
@@ -23,14 +19,14 @@ A simple and interactive temperature converter application built using Python an
 
 ## Requirements
 
-- Python 3.x
+- Python 3 or above
 - Tkinter (comes pre-installed with Python)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/temperature-converter.git
+   git clone https://github.com/paomfarv/temperature-converter.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -38,7 +34,7 @@ A simple and interactive temperature converter application built using Python an
    ```
 3. Run the application:
    ```bash
-   python temperature_converter.py
+   python tempeconverter.py
    ```
 
 ## Code Highlights
